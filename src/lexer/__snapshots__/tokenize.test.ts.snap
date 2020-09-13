@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tokenize needs tests 1`] = `
+Array [
+  Object {
+    "type": "token",
+    "value": "my number",
+  },
+  Object {
+    "type": "token",
+    "value": "    3",
+  },
+  Object {
+    "type": "token",
+    "value": "",
+  },
+]
+`;
